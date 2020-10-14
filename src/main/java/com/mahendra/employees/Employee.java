@@ -12,7 +12,7 @@ public class Employee {
     private long id;
     private String name;
     private String lastName;
-    private String birthDate;
+    private String birthDate
     private String role;
     private String department;
     private String email;
